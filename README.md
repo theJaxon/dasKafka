@@ -2,6 +2,8 @@
 Message Queuing project @ iti intake 40
 The utility takes the record and counts the number of repeated words in the sentence then displays them
 
+![hg](https://github.com/theJaxon/dasKafka/blob/master/Preview.jpg)
+
 ### Documentation:
 * [Kafka](https://kafka.apache.org/quickstart) Get apache Kafka binaries from here.
 * Extract the zip file and cd into the kafka folder
@@ -30,4 +32,3 @@ The utility takes the record and counts the number of repeated words in the sent
 #### Using the utility:
 Enter the topic name that you created in step 3 in the first field, enter the record in the second field and press on the "Produce button", after that click the consume button (for now click it 2 times, there's an error which i wasn't able to solve).
 
-![hg](https://github.com/theJaxon/dasKafka/blob/master/Preview.jpg)
