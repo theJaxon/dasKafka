@@ -1,0 +1,11 @@
+.button {
+    -fx-font-weight: bold;
+}
+
+#recordLV .list-cell {
+    -fx-alignment: center;
+}
+
+#keyValuePairLV .list-cell {
+    -fx-alignment: center;
+}
